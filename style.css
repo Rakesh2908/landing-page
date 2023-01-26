@@ -112,6 +112,7 @@ h1 {
   margin: 5px 20px 0px 20px;
 }
 
+/* Quotation Part */
 .quote {
   display: flex;
   flex-direction: column;
@@ -134,6 +135,7 @@ h1 {
   text-align: right;
 }
 
+/* Sign Up Part */
 .sign-up {
   background-color: #3882F6 ;
   margin: 50px 200px;
